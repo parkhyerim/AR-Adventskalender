@@ -13,7 +13,7 @@ public class RotateToyBall : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        // transform.transform.Rotate(40.0f, 10.0f, 0.0f);
+        transform.Rotate(new Vector3(0,20,0) * Time.deltaTime);
 
            
     }
