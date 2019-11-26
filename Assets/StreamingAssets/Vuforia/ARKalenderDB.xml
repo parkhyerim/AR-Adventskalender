@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Day18" size="4.000000 3.874272" />
+    <ImageTarget name="Day14" size="4.000000 3.875694" />
+    <ImageTarget name="Day23" size="4.000000 3.960848" />
+    <ImageTarget name="Day07" size="4.000000 3.935484" />
+    <ImageTarget name="Day09" size="4.000000 3.870370" />
+    <ImageTarget name="Day08" size="4.000000 3.852978" />
+    <ImageTarget name="Day20" size="4.000000 3.954545" />
+    <ImageTarget name="Day22" size="4.000000 3.902555" />
+    <ImageTarget name="Day11" size="4.000000 3.876497" />
+    <ImageTarget name="Day03" size="4.000000 3.841191" />
+    <ImageTarget name="Day15" size="4.000000 3.871456" />
+    <ImageTarget name="Day13" size="4.000000 3.891204" />
+    <ImageTarget name="Day05" size="4.000000 3.887064" />
+    <ImageTarget name="Day16" size="4.000000 3.896104" />
+    <ImageTarget name="Day21" size="4.000000 3.821896" />
+    <ImageTarget name="Day02" size="4.000000 3.889931" />
+    <ImageTarget name="Day10" size="4.000000 3.791304" />
+    <ImageTarget name="Day19" size="4.000000 3.765267" />
+    <ImageTarget name="Day12" size="4.000000 3.882418" />
+    <ImageTarget name="Day17" size="4.000000 3.975505" />
+    <ImageTarget name="Day04" size="4.000000 3.873217" />
+    <ImageTarget name="Day06" size="4.000000 3.965631" />
+    <ImageTarget name="Day24" size="4.000000 3.852006" />
+    <ImageTarget name="Day01" size="4.000000 3.872910" />
+  </Tracking>
+</QCARConfig>
